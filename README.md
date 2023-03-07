@@ -25,7 +25,7 @@ In addition, life expectancy may be influenced by other factors, such as changes
 - [spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/README.md#Spotlight)
 - [more about the author](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/README.md#More_about_the_Author)
 - [references](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/README.md#References)
-
+- [GitHub Page](https://rising-stars-by-sunshine.github.io/stats201-FinalProject-Yiyang/)
 
 
 ## Data
