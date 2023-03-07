@@ -30,14 +30,34 @@ In addition, life expectancy may be influenced by other factors, such as changes
 
 ## Data
 - Data Source:
-- Queried Data
-
+- Meta Data Infomation:
 | Data Files | Data Type | Data Content |
 | ----- | ----- | ----- | 
 |  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)| Queried | life expectancy of all countries and regions |
+| [explanation.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/explanation.csv) | Queried | literatures for explanation| 
+| [HL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HL.csv) | Processed | arranged life expectancy of all countries and regions | 
+| [CHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/CHL.csv) | Processed | life expectancy of China | 
+| [HHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HHL.csv) | Processed | life expectancy of Hong Kong | 
+| [Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Train.csv) | Processed | Training data for regression | 
+| [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Test.csv) | Processed | Testing data for regression | 
 
-- Processed Data
-- ...
+- Data Dictionary
+- | File Name | Variable Name | Description | Frecuency | Unit | Type |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+|  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [explanation.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/explanation.csv) |  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [HL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HL.csv) |  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [CHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/CHL.csv) |  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [HHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HHL.csv) |  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Train.csv) |  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Test.csv) |  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 
 ## Code
