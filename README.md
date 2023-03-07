@@ -31,6 +31,7 @@ In addition, life expectancy may be influenced by other factors, such as changes
 ## Data
 - Data Source:
 - Queried Data
+
 | Data Files | Data Type | Data Content |
 | ----- | ----- | ----- | 
 |  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)| Queried | life expectancy of all countries and regions |
