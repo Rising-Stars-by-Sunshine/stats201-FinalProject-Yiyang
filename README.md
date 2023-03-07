@@ -63,6 +63,9 @@ In addition, life expectancy may be influenced by other factors, such as changes
 
 
 ## Code
+Explaination Code Source: https://github.com/sunshineluyao/design-principle-blockchain
+Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
+Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
 - Query Data
 - Process Data
 - Analyze Data
