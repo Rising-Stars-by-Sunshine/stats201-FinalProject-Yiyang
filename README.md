@@ -19,7 +19,7 @@ Since data on health is collected on a yearly basis, the data sets are not large
 In addition, life expectancy may be influenced by other factors, such as changes in national health policies after the natural disaster and increased health awareness among people. The development of technology and medical technology may also be taken into account, and the analysis of these combined factors may be the direction of further research.
 
 ## Table of Contents
-- data(https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/README.md#Data)
+- [data](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/README.md#Data)
 - code
 - spotlight
 - more about the author
