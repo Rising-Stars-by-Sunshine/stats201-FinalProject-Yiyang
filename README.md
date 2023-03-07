@@ -7,7 +7,7 @@
 - **Project Summary**: 
   - [Summarize the Background/Motivation]The 1960 famine in China was one of the largest natural disasters in human history, resulting in widespread hunger and mortality. The famine was caused by a combination of natural disasters, such as drought and floods, and poor agricultural policies (Ashton et al. 1984). Despite the significant impacts of the famine on the population, including a decline in life expectancy, it is unclear how the natural disaster affected life expectancy in the long term.
   - [Research Questions]How does the natural disaster of 1960 affect life expectancy in China?
-![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Chatgpt%20answer.png）
+  - ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Chatgpt%20answer.png）
 
   - [Application Scenario (Data Source)]https://ourworldindata.org/life-expectancy
   - [Methodology] Linear regression analysis and causal inference.
