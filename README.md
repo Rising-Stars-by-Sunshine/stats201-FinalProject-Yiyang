@@ -31,9 +31,10 @@ In addition, life expectancy may be influenced by other factors, such as changes
 ## Data
 - Data Source:
 - Meta Data Infomation:
+
 | Data Files | Data Type | Data Content |
 | ----- | ----- | ----- | 
-|  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)| Queried | life expectancy of all countries and regions |
+|  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)| Queried | life expectancy of all countries and regions | 
 | [explanation.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/explanation.csv) | Queried | literatures for explanation| 
 | [HL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HL.csv) | Processed | arranged life expectancy of all countries and regions | 
 | [CHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/CHL.csv) | Processed | life expectancy of China | 
@@ -42,7 +43,8 @@ In addition, life expectancy may be influenced by other factors, such as changes
 | [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Test.csv) | Processed | Testing data for regression | 
 
 - Data Dictionary
-- | File Name | Variable Name | Description | Frecuency | Unit | Type |
+
+| File Name | Variable Name | Description | Frecuency | Unit | Type |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 |  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)|  |  |  |  |  |  |
 |  |  |  |  |  |  |
