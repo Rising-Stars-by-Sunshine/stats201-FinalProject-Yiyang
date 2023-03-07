@@ -59,26 +59,24 @@ In addition, life expectancy may be influenced by other factors, such as changes
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- https://ourworldindata.org/life-expectancy
 ### Code Source
-- Code Source Title and URL
+- https://github.com/Rising-Stars-by-Sunshine/stats201-portfolio
+- https://github.com/sunshineluyao/design-principle-blockchain
+- https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
 ### Articles
-- Article Source Title and URL
+- https://ourworldindata.org/life-expectancy
+- https://www.sciencedirect.com/science/article/pii/S0953620522002266
+- https://link.springer.com/chapter/10.1007/978-1-4899-1231-2_9
+- https://www.science.org/doi/abs/10.1126/scitranslmed.abb1655
+- https://link.springer.com/article/10.1007/s11205-008-9326-4
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
-
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
+- Ashton, Basil, Kenneth Hill, Alan Piazza, and Robin Zeitz. 1984. “Famine in China, 1958-61.” Population and Development Review 10 (4): 613. https://doi.org/10.2307/1973284.
+‌- McDermott, Matthew B. A., Shirly Wang, Nikki Marinsek, Rajesh Ranganath, Luca Foschini, and Marzyeh Ghassemi. 2021. “Reproducibility in Machine Learning for Health Research: Still a Ways to Go.” Science Translational Medicine 13 (586). https://doi.org/10.1126/scitranslmed.abb1655.
+- Roser, Max, Esteban Ortiz-Ospina, and Hannah Ritchie. 2019. “Life Expectancy.” Our World in Data. October 2019. https://ourworldindata.org/life-expectancy.
+‌- Yao, Grace, and Chia-huei Wu. 2008. “Similarities and Differences among the Taiwan, China, and Hong-Kong Versions of the WHOQOL Questionnaire.” Social Indicators Research 91 (1): 79–98. https://doi.org/10.1007/s11205-008-9326-4.
+- You, Wenpeng, and Frank Donnelly. 2022. “Physician Care Access Plays a Significant Role in Extending Global and Regional Life Expectancy.” European Journal of Internal Medicine, June. https://doi.org/10.1016/j.ejim.2022.06.006.
+- Zhang, Luyao (Sunshine). 2022. “Machine Learning for Causal Inference.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/causal-inference/release/8.
+- Zhang, Luyao (Sunshine), Zesen Zhuang, and Xinyu (Michelle) Tian. 2022. “Machine Learning for Predictions.” Machine Learning for Social Science, November. https://ms.pubpub.org/pub/ml-prediction/release/4.
+‌
 
