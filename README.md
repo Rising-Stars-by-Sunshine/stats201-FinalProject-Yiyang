@@ -84,19 +84,37 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 - Poster
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/poster.png)
+### Figure No.1. Final Project Poster
+
 - Explaination
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/bigram.png)
+### Figure No.2. Wordcloud of Life Expectancy in China
+Based on the literature from Google Expectancy in search of Life Expectancy in China, life expectancy is closely related to health status and is highly concerned. This word shows that research based on Life Expectancy in China is of practical significance.
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Life%20expectancy%20in%20China%20from%201930%20to%202020.png)
+### Figure No.3. Broken Line Statistics of Life Expectancy in China
+In 1960, life expectancy in China changed dramatically in a short period of time. Despite the significant impacts of the famine on the population, including a decline in life expectancy, it is unclear how the natural disaster affected life expectancy in the long term.
+
 - Prediction
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Linear%20Regression.png)
+### Figure No.4.  Linear regression prediction histogram of Linear regression prediction histogram of Life Expectancy in China
+The predicted and actual values have a high degree of fitting, and this event has little impact on life expectancy.
+
 - Causal Event
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Continuity%20Assumption.png)
+### Figure No.5. Causal Inference Research Design
+The study analyzed data on life expectancy in China from 1930 to 2020, including the period before and after the 1960 famine by regression discontinuity design. Life expectancy in China is supposed to rise steadily according to the original trend, leaving aside the natural disasters of 1960. But when taking the natural disaster of 1960 into consideration, China's life expectancy is expected to drop sharply because of this event but it will gradually resume its rising trend and finally surpass it. However, the rate of increase may slow down due to the impact of hunger and other problems caused by natural disasters.
+
 - Result
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Casual%20Inference.png)
+### Figure No.6. Result (A Comparative Analysis of Life Expectancy in China and Hong Kong)
+Contrary to expectations, life expectancy in China rose sharply after 1960 and almost kept rising at a similar rate. This sharp rise is due to the fact that people who had a significant negative impact on life expectancy in 1960 may have died and not been included in subsequent statistics when the data were compiled. This overturns previous assumptions and suggests that the 1960 natural disaster may have had a positive effect or have no significant effect on life expectancy in China. 
+By comparing historical conditions, development process, environment and climate, and other factors, the health background of Hong Kong is similar to that of China (Yao and Wu 2008). But because Hong Kong is relatively isolated from mainland China, it is hardly affected by natural disasters and shows no anomalies in life expectancy statistics. After the 1960 natural disaster, the trend in life expectancy in China remained similar to that in Hong Kong, which was unaffected. This further illustrates the limited impact of the 1960 natural disaster on life expectancy in China.
+
 
 ## More about the Author
 
