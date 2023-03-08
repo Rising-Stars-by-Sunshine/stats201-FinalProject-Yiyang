@@ -74,7 +74,7 @@ Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tut
 
 Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
 
-| Explaination | Linear Regression | Causal Inference |
+| Explaination | Prediction | Causal Inference |
 | ----- | ----- | ----- | 
 |  [explanation.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/explanation.ipynb) |  [Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)  | [Query_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Query_Data.ipynb) |
 |  | [Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb) | [Process_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Process_Data.ipynb) |
@@ -83,15 +83,21 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 ## Spotlight
 - Poster
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/poster.png)
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+- Explaination
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/bigram.png)
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Life%20expectancy%20in%20China%20from%201930%20to%202020.png)
+- Prediction
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/bigram.png)
+- Causal Event
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Continuity%20Assumption.png)
+- Result
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Casual%20Inference.png)
 
 ## More about the Author
 - headshot
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/headshot.png)
 - self-introduction
+Yiyang Zhang,a DKU student from class of 2025, major in Computer and Design / Digital Media. Student Worker for DKU social media team. Research interest is digital design and media interaction. 
 - Final reflections 
   - intellectual growth
   - professional growth
