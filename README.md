@@ -46,10 +46,11 @@ In addition, life expectancy may be influenced by other factors, such as changes
 
 | File Name | Variable Name | Description | Frecuency | Unit | Type |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-|  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)|  |  |  |  |  |  |
+|  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)|  |  |  |  |  | 
 |  |  |  |  |  |  |
-| [explanation.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/explanation.csv) |  |  |  |  |  |  |
-|  |  |  |  |  |  |
+
+| [explanation.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/explanation.csv) | Title | titles of collected literature | \ |  | \ | str | |  |  |  |  |  |
+|  | Abstract | abstracts of collected literature | \ | \ | str |
 | [HL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HL.csv) |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 | [CHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/CHL.csv) |  |  |  |  |  |  |
