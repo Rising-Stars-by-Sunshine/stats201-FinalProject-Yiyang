@@ -82,15 +82,20 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 
 ## Spotlight
 - Poster
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/poster.png)
 - Explaination
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/bigram.png)
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Life%20expectancy%20in%20China%20from%201930%20to%202020.png)
 - Prediction
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Linear%20Regression.png)
 - Causal Event
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Continuity%20Assumption.png)
 - Result
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Casual%20Inference.png)
 
 ## More about the Author
@@ -100,8 +105,12 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 Yiyang Zhang,a DKU student from class of 2025, major in Computer and Design / Digital Media. Student Worker for DKU social media team. Research interest is digital design and media interaction. 
 - Final reflections 
   - intellectual growth
+  Through this course, I have gained a deeper understanding of the potential applications of machine learning in solving social and economic issues. I have learned how machine learning algorithms can be used to analyze large datasets and identify patterns that would be difficult or impossible to discern through traditional statistical methods. I have also learned how to interpret the results of machine learning models and to evaluate their effectiveness.
+  The magic of interdisciplinary research is the ability to combine expertise from different fields to solve complex problems. By bringing together individuals from different backgrounds and areas of expertise, interdisciplinary research can lead to new insights and breakthroughs that would not have been possible through single-discipline approaches. The combination of different perspectives can lead to innovative solutions and a more comprehensive understanding of complex issues.
   - professional growth
+  In this course, I have acquired a combination of technical skills, such as programming and data analysis, and soft skills, such as communication and teamwork. These skills are valuable for a wide range of careers, including data science, research, and policy analysis. I have also learned about the ethical considerations involved in using machine learning in social and economic contexts, which is essential for responsible and effective use of these tools.
   - living a purposeful life
+  If I were to win a Nobel Prize or Turing Award, I would want my feature sentence to read "Helped to use machine learning to improve human well-being." My contribution to advancing human civilization would be to use machine learning to solve problems related to health, education, and social inequality. I would like to use my skills and knowledge to make a positive impact on society and to help create a more equitable and just world.
 
 ## References
 
