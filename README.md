@@ -29,7 +29,7 @@ In addition, life expectancy may be influenced by other factors, such as changes
 
 
 ## Data
-- Data Source:
+- Data Source: https://ourworldindata.org/life-expectancy
 - Meta Data Infomation:
 
 | Data Files | Data Type | Data Content |
@@ -74,10 +74,11 @@ Prediction Code Source: https://github.com/Rising-Stars-by-Sunshine/stats201-tut
 
 Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
 
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+| Explaination | Prediction | Causal Event |
+| ----- | ----- | ----- | 
+|  [explanation.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/explanation.ipynb) |  [Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)  | [Query_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Query_Data.ipynb) |
+|  | [Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_Market_Congestion_ipynb.ipynb) | [Process_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Process_Data.ipynb) |
+|  |  | [Analyze_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Analyze_Data.ipynb) | 
 
 ## Spotlight
 - Posters
