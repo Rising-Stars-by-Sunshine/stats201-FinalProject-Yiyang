@@ -101,8 +101,7 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 ## More about the Author
 
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/headshot.png)
-- self-introduction
-Yiyang Zhang,a DKU student from class of 2025, major in Computer and Design / Digital Media. Student Worker for DKU social media team. Research interest is digital design and media interaction. 
+- Yiyang Zhang,a DKU student from class of 2025, major in Computer and Design / Digital Media. Student Worker for DKU social media team. Research interest is digital design and media interaction. 
 - Final reflections 
   - intellectual growth
 
