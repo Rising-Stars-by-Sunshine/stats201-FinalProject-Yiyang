@@ -81,7 +81,8 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 |  |  | [Analyze_Data.ipynb](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/code/Analyze_Data.ipynb) | 
 
 ## Spotlight
-- Posters
+- Poster
+![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/poster.png)
 - Figures
 - Slides
 - Presentations
