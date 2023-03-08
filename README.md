@@ -46,20 +46,24 @@ In addition, life expectancy may be influenced by other factors, such as changes
 
 | File Name | Variable Name | Description | Frecuency | Unit | Type |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-|  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)|  |  |  |  |  | 
-|  |  |  |  |  |  |
+|  [life-expectancy.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/life-expectancy.csv)| Entity | country and region | \ | \ | str | 
+|  | Code | resource of data | \ | \ | str |
+|  | Year | year of data collected | yearly | year | int |
+|  | Life expectancy at birth (historical) | Life expectancy at birth each year | yearly | year | float |
 | [explanation.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/explanation.csv) | Title | titles of collected literature | \ | \ | str | 
 |  | Abstract | abstracts of collected literature | \ | \ | str |
-| [HL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HL.csv) |  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| [CHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/CHL.csv) |  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| [HHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HHL.csv) |  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| [Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Train.csv) |  |  |  |  |  |  |
-|  |  |  |  |  |  |
-| [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Test.csv) |  |  |  |  |  |  |
-|  |  |  |  |  |  |
+| [HL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HL.csv) | Entity | country and region | \ | \ | str | 
+|  | Code | resource of data | \ | \ | str |
+|  | Year | year of data collected | yearly | year | int |
+|  | Life expectancy at birth (historical) | Life expectancy at birth each year | yearly | year | float |
+| [CHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/CHL.csv) | Year | year of data collected in China | yearly | year | int |
+|  | Life expectancy at birth (historical) | Life expectancy at birth each year in China | yearly | year | float |
+| [HHL.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/HHL.csv) | Year | year of data collected in Hong Kong | yearly | year | int |
+|  | Life expectancy at birth (historical) | Life expectancy at birth each year in Hong Kong | yearly | year | float |
+| [Regression_Train.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Train.csv) | theta | yearly life expectancy | yearly | year | float |
+|  | theta_past_ma10 | average life expectancy of past 10 years | yearly | year | float |
+| [Regression_Test.csv](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/data/Regression_Test.csv) | theta | yearly life expectancy | yearly | year | float |
+|  | theta_past_ma10 | average life expectancy of past 10 years | yearly | year | float |
 
 
 ## Code
