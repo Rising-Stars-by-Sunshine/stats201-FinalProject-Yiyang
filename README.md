@@ -99,7 +99,7 @@ Causal Event Certification Code Source: https://numpy.org/doc/stable/reference/g
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/spotlight/figures/Casual%20Inference.png)
 
 ## More about the Author
-- headshot
+
 ![image](https://github.com/Rising-Stars-by-Sunshine/stats201-FinalProject-Yiyang/blob/main/headshot.png)
 - self-introduction
 Yiyang Zhang,a DKU student from class of 2025, major in Computer and Design / Digital Media. Student Worker for DKU social media team. Research interest is digital design and media interaction. 
