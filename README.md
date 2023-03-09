@@ -2,7 +2,7 @@
 ## Project information
 - **Author**: Yiyang Zhang, Computation and Design with tracks in Digital Media, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
-- **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term ](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Acknowledgment: Thanks to Professor Luyao Zhang for guiding my project. Thanks for Xintong Wu's encouragement and Eddile Lin's peer review. And thanks to all Stats 201 students for their suggestions and comments.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]The 1960 famine in China was one of the largest natural disasters in human history, resulting in widespread hunger and mortality. The famine was caused by a combination of natural disasters, such as drought and floods, and poor agricultural policies (Ashton et al. 1984). Despite the significant impacts of the famine on the population, including a decline in life expectancy, it is unclear how the natural disaster affected life expectancy in the long term.
